@@ -1,0 +1,7 @@
+kaggle
+numpy 
+matplotlib
+pandas
+prettytable
+seaborn
+scikit-learn
